@@ -18,7 +18,7 @@ I work as a senior developer at Askom (Backend NodeJS). I'm 20 years old, 4 year
 ![git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![raspberry pi](https://img.shields.io/badge/RASPBERRY%20PI-%23C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white) 
 ![gitlab](https://img.shields.io/badge/gitlab%20ci%20cd%20-%23FCA121.svg?&style=for-the-badge&logo=GitLab&logoColor=white)
-![github](https://img.shields.io/badge/github%20ci%20cd%20-%23FCA121.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+![github](https://img.shields.io/badge/github%20ci%20cd%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 ![digitalocean](https://img.shields.io/badge/digitalocean%20-%230080FF.svg?&style=for-the-badge&logo=digitalocean&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pileskyd&theme=onedark)](#)
